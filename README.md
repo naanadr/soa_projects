@@ -16,3 +16,13 @@ Projetos desenvolvidos na disciplina Arquitetura Orientada a Serviços (UFRPE/20
 ### Como executar?
 
 [Ler documentação](/soap/README.md)
+
+## Projeto REST (/rest)
+
+### Requisitos do projeto
+
+1. Implemente um serviço utilizando a arquitetura REST. O serviço deve ter os métodos GET, POST, DELETE e PUT.
+
+### Como executar?
+
+[Ler documentação](/rest/README.md)
